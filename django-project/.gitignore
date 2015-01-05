@@ -1,0 +1,8 @@
+*.pyc
+*.log
+*.temp
+*secret.py
+*.*~
+*.db
+localsettings.py
+Thumbs.db
